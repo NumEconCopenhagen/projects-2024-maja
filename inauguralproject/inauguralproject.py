@@ -10,6 +10,7 @@ def square(x):
         y (ndarray): output array
     
     """
+    # i lo0ve
     
     y = x**2
     return y
