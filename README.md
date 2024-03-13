@@ -1,8 +1,8 @@
 # \[Group name\]
 
 **Group members:**
-- A
-- B
+- Maja Hundsdahl
+- Elisabeth Pham
 - C
 
 This repository contains  
