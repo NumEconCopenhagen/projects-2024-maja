@@ -2,8 +2,7 @@
 
 **Group members:**
 - Maja Hundsdahl
-- Elisabeth Pham
-- C
+
 
 This repository contains  
 1. Inaugural project. 
